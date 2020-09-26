@@ -134,7 +134,7 @@
           </ActivityAction>
         </ui:BrowserScope.Body>
       </ui:BrowserScope>
-      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="508.8,60" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Data Sucessfully Scrapped&quot;]" />
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="508.8,60" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;The Data Sucessfully Scrapped&quot;]" />
     </Sequence>
   </Sequence>
 </Activity>
